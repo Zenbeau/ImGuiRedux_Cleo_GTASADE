@@ -5,7 +5,7 @@ I use Rockstar Games version of the game, don't know if it works on Steam. You c
 
 **Usage**
 
-To use, simply copy/paste all files in zip folder to CLEO folder for your game. So copy/paste "imgui_gta_sa_de.js" and "data" to your CLEO folder (C:\Program Files\Rockstar Games\GTA San Andreas - Definitive Edition\Gameface\Binaries\Win64\CLEO). You will also need an ASI Loader "version.dll" which automatically gets put in the Win64 folder when you install Cleo Redux to game directory location. 
+To use, simply copy/paste all files in zip folder to CLEO folder for your game. So copy/paste "imgui_gta_sa_de.js" and "data" to your CLEO folder (C:\Program Files\Rockstar Games\GTA San Andreas - Definitive Edition\Gameface\Binaries\Win64\CLEO). You will need an ASI Loader "version.dll" which automatically gets put in the Win64 folder when you install Cleo Redux to game directory location. And yes, you need to install Cleo Redux too which you can do here: https://re.cleo.li/
 
 **Hotkeys**
 
