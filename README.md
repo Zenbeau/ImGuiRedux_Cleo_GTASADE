@@ -1,7 +1,7 @@
 # ImGuiRedux_Cleo_GTASADE
 an ImGui menu made using ImGuiRedux for Cleo Redux for the game GTA San Andreas Definitive Edition
 
-I use Rockstar Games version of the game, don't know if it works on Steam. You can try. I think it might work since Cleo already added support for Steam versions a while ago. Any virus hits are false positives
+I use Rockstar Games version of the game, don't know if it works on Steam. You can try. I think it might work since Cleo already added support for Steam versions a while ago. Any virus hits are false positives. If it doesn't let you download due to virus hit, alternatively, you can just click on "imgui_gta_sa_de.js" and copy all the source code, create a new file in your CLEO folder and paste all the source code in it. Or just turn your antivirus off, but I guess people don't really wanna turn their AV off.
 
 **Usage**
 
