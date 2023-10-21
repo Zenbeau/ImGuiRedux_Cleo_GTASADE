@@ -1,7 +1,7 @@
 # ImGuiRedux_Cleo_GTASADE
 an ImGui menu made using ImGuiRedux for Cleo Redux for the game GTA San Andreas Definitive Edition
 
-I use Rockstar Games version of the game, don't know if it works on Steam. You can try. I think it might work since Cleo already added support for Steam versions a while ago.
+I use Rockstar Games version of the game, don't know if it works on Steam. You can try. I think it might work since Cleo already added support for Steam versions a while ago. Any virus hits are false positives
 
 **Usage**
 
