@@ -7,25 +7,32 @@ I use Rockstar Games version of the game, don't know if it works on Steam. You c
 
 To use, simply copy/paste all files in zip folder to CLEO folder for your game. So copy/paste "imgui_gta_sa_de.js", "data" and "CLEO_PLUGINS" to your CLEO folder (C:\Program Files\Rockstar Games\GTA San Andreas - Definitive Edition\Gameface\Binaries\Win64\CLEO). You will need an ASI Loader "version.dll" which automatically gets put in the Win64 folder when you install Cleo Redux to game directory location. And yes, you need to install Cleo Redux too which you can do here: https://re.cleo.li/
 
+**Mods:**
+- Vehicle Spawner
+- Vehicle Color Changer
+- Give Weapon
+- Infinite Ammo
+- Infinite Health
+- Add Armor
+- Never Get Tired
+- Set/Freeze Wanted Level
+- Add money
+- Always stay on Bike
+- Spawn Jetpack
+
 **Hotkeys:**
 
-Insert - Toggle the ImGui menu on or off
-
-F1 - Warp to last created vehicle
-
-F2 - Repair last created vehicle
-
-F3 - Delete last created vehicle
+- Insert: Toggle the ImGui menu on or off
+- F1: Warp to last created vehicle
+- F2: Repair last created vehicle
+- F3: Delete last created vehicle
 
 **Credits:**
 
-Made by Zenbeau
-
-Thanks to PurpleWolfy/NightWolfy004 and the original source code by Shuubaru for Vehicle Spawner and Color Changer.
-
-Thanks to Grinch and Seemann for making ImGuiRedux! (which is what was used to make this).
-
-Also thanks to seifmagdi for his continuous support.
+- Made by Zenbeau
+- Thanks to PurpleWolfy/NightWolfy004 and the original source code by Shuubaru for Vehicle Spawner and Color Changer.
+- Thanks to Grinch and Seemann for making ImGuiRedux! (which is what was used to make this).
+- Also thanks to seifmagdi for his continuous support.
 
 
 ![ImGui GTA SA DE](https://github.com/Zenbeau/ImGuiRedux_Cleo_GTASADE/assets/92415048/9f1e41aa-30c7-4520-a24d-4283f93d9c2d)
