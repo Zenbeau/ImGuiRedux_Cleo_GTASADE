@@ -26,7 +26,7 @@ var ammo_flag = false;
 // var speed_flag = false;
 // var heading = false;
 var current_vehicle = false;
-var current_jetpk = false;
+// var current_jetpk = false;
 // weapons
 var current_weapon = false;
 const weaponList = "Unarmed, Brass Knuckles, Golf Club, Night Stick, Knife, Baseball Bat, Shovel, Pool Cue, Katana, Chainsaw, Grenade, Teargas, Molotov, Pistol, Silenced Pistol, Desert Eagle, Shotgun, Sawn-off Shotgun, Spas-12 Shotgun, Tec9, Micro Uzi, MP5, AK47, M4, Rifle, Sniper, Rocket Launcher, Rocket Launcher Hs, Flamethrower, Minigun, Satchel, Detonator, Spray Can, Extinguisher, Camera, Night Vision, Infrared, Parachute, Dildo1, Dildo2, Vibe1, Vibe2, Flowers, Cane, Rocket (missile), Rocket Hs (missile), Freefall Bomb (missile)";
