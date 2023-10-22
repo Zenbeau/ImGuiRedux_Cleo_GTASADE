@@ -30,7 +30,7 @@ To use, simply copy/paste all files in zip folder to CLEO folder for your game. 
 **Credits:**
 
 - Made by Zenbeau
-- Thanks to PurpleWolfy/NightWolfy004 and the original source code by Shuubaru for Vehicle Spawner and Color Changer.
+- Thanks to PurpleWolfy/NightWolfy004 for the original source code for Vehicle Spawner and Color Changer.
 - Thanks to Grinch and Seemann for making ImGuiRedux! (which is what was used to make this).
 - Also thanks to seifmagdi for his continuous support.
 
