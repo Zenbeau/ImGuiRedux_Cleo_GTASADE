@@ -34,6 +34,9 @@ To use, simply copy/paste all files in zip folder to CLEO folder for your game. 
 - Thanks to Grinch and Seemann for making ImGuiRedux! (which is what was used to make this).
 - Also thanks to seifmagdi for his continuous support.
 
+**Updates:**
+v1.02 on 22-10-2023: Jetpack should have a timeout now if not used right after spawning it (The game needs to free up memory). In the previous version, Jetpack would not de-spawn unless you used it at least once and then saved the game (skipping a couple hours). This could've been an issue because if player spawns multiple Jetpacks without using them, it won't release from the game's memory.
+
 
 ![ImGui GTA SA DE](https://github.com/Zenbeau/ImGuiRedux_Cleo_GTASADE/assets/92415048/9f1e41aa-30c7-4520-a24d-4283f93d9c2d)
 ![ImGui GTA SA DE (2)](https://github.com/Zenbeau/ImGuiRedux_Cleo_GTASADE/assets/92415048/a6860589-61c7-4ae9-a13c-71fa064d3489)
