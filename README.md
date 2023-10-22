@@ -18,7 +18,7 @@ To use, simply copy/paste all files in zip folder to CLEO folder for your game. 
 - Set/Freeze Wanted Level
 - Add money
 - Always stay on Bike
-- Spawn Jetpack
+- Spawn Jetpack (won't de-spawn unless you use it at least once)
 
 **Hotkeys:**
 
