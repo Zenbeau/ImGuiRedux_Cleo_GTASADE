@@ -1,5 +1,7 @@
 # ImGuiRedux_Cleo_GTA_SA_DE
 
+**Notes:**
+
 Works on both Rockstar and Steam versions of the game. MSI Afterburner has a conflict with other menu style overlays in this game. Might be a DirectX issue. The menu will only work if you close MSI Afterburner first. You should still be able to earn achievements while using this, to my knowledge. I made this mod so you can easily search a vehicle/vehicle color/weapon within a menu instead of pressing hotkey and going through all vehicles to get to your desired vehicle. Apparently ImGuiRedux has some bugs, not sure why but if you open the menu and expand lists while inside buildings, it will become buggy. Simply, step outside the building and then use this. 
 
 **Usage:**
