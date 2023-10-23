@@ -1,7 +1,6 @@
 # ImGuiRedux_Cleo_GTA_SA_DE
-an ImGui menu with search feature made using ImGuiRedux for Cleo Redux for the game GTA San Andreas Definitive Edition
 
-I use Rockstar Games version of the game, don't know if it works on Steam. You can try. I think it might work since Cleo already added support for Steam versions a while ago. MSI Afterburner has a conflict with other menu style overlays in this game. Might be a DirectX issue. The menu will only work if you close MSI Afterburner first. You should still be able to earn achievements while using this, to my knowledge. I made this mod so you can easily search a vehicle/vehicle color/weapon within a menu instead of pressing hotkey and going through all vehicles to get to your desired vehicle. Apparently ImGuiRedux has some bugs, not sure why but if you open the menu and expand lists while inside buildings, it will become buggy. Simply, step outside the building and then use this. 
+Works on both Rockstar and Steam versions of the game. MSI Afterburner has a conflict with other menu style overlays in this game. Might be a DirectX issue. The menu will only work if you close MSI Afterburner first. You should still be able to earn achievements while using this, to my knowledge. I made this mod so you can easily search a vehicle/vehicle color/weapon within a menu instead of pressing hotkey and going through all vehicles to get to your desired vehicle. Apparently ImGuiRedux has some bugs, not sure why but if you open the menu and expand lists while inside buildings, it will become buggy. Simply, step outside the building and then use this. 
 
 **Usage:**
 
@@ -30,8 +29,9 @@ To use, simply copy/paste all files in zip folder to CLEO folder for your game. 
 **Credits:**
 
 - Made by Zenbeau
-- Thanks to Grinch and Seemann for making ImGuiRedux! (which is what was used to make this --> https://github.com/user-grinch/ImGuiRedux)
-- Also thanks to seifmagdi for his continuous support.
+- seifmagdi for his continuous support
+- Grinch and Seemann for making ImGuiRedux (https://github.com/user-grinch/ImGuiRedux).
+- PurpleWolfy/NightWolfy004 for inspiration
 
 **Updates:**
 v1.02 on 22-10-2023: Jetpack should have a timeout now if not used right after spawning it (The game needs to free up memory). In the previous version, Jetpack would not de-spawn unless you used it at least once and then saved the game (skipping a couple hours). This could've been an issue because if player spawns multiple Jetpacks without using them, it won't release from the game's memory.
