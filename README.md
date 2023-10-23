@@ -4,10 +4,6 @@
 
 Works on both Rockstar and Steam versions of the game. MSI Afterburner has a conflict with other menu style overlays in this game. Might be a DirectX issue. The menu will only work if you close MSI Afterburner first. You should still be able to earn achievements while using this, to my knowledge. I made this mod so you can easily search a vehicle/vehicle color/weapon within a menu instead of pressing hotkey and going through all vehicles to get to your desired vehicle. Apparently ImGuiRedux has some bugs, not sure why but if you open the menu and expand lists while inside buildings, it will become buggy. Simply, step outside the building and then use this. 
 
-**Usage:**
-
-To use, simply copy/paste all files in zip folder to CLEO folder for your game. So copy/paste "imgui_gta_sa_de.js", "data" and "CLEO_PLUGINS" to your CLEO folder (C:\Program Files\Rockstar Games\GTA San Andreas - Definitive Edition\Gameface\Binaries\Win64\CLEO). You will need an ASI Loader "version.dll" which automatically gets put in the Win64 folder when you install Cleo Redux to game directory location. And yes, you need to install Cleo Redux too which you can do here: https://re.cleo.li/
-
 **Mods:**
 - Vehicle Spawner
 - Vehicle Color Changer
@@ -20,6 +16,10 @@ To use, simply copy/paste all files in zip folder to CLEO folder for your game. 
 - Add money
 - Always stay on Bike
 - Spawn Jetpack
+
+**Usage:**
+
+To use, simply copy/paste all files in zip folder to CLEO folder for your game. So copy/paste "imgui_gta_sa_de.js", "data" and "CLEO_PLUGINS" to your CLEO folder (C:\Program Files\Rockstar Games\GTA San Andreas - Definitive Edition\Gameface\Binaries\Win64\CLEO). You will need an ASI Loader "version.dll" which automatically gets put in the Win64 folder when you install Cleo Redux to game directory location. And yes, you need to install Cleo Redux too which you can do here: https://re.cleo.li/
 
 **Hotkeys:**
 
